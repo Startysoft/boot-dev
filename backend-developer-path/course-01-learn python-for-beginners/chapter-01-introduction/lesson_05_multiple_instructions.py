@@ -5,7 +5,6 @@ print("Hero: Where did an owl learn to speak??")
 
 #assingment discription below / solution above
 
-
 """ Multiple Instructions
 Code runs in order, starting at the top of the program. For example:
 
