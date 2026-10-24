@@ -1,16 +1,15 @@
-"""
-Question 1: Which happens first?
-Answer B: The function is defined.
+print("Question 1: Which happens first?")
+print("Answer B: The function is defined.")
 
-Question 2: Why is the variable called 'radius' outside the function, but 'r' inside the function?
-Answer B: The variable 'radius' is defined outside the function, while 'r' is a parameter that is passed into the function when it is called. They are different variables with different scopes.
+print("Question 2: Why is the variable called 'radius' outside the function, but 'r' inside the function?")
+print("Answer B: The variable 'radius' is defined outside the function, while 'r' is a parameter that is passed into the function when it is called. They are different variables with different scopes.")
 
-Question 3: Which keyword sends a value back to the code that called a function?
-Answer A: Return
+print("Question 3: Which keyword sends a value back to the code that called a function?")
+print("Answer A: Return")
 
 # Code above / assignment below
 
-Function Review
+"""Function Review
 Functions are tricky! It takes a minute to get used to them, but after that they'll be second nature to you. You might find yourself slowing down a bit in this chapter, and if you do, that's totally normal.
 
 Click to show video
