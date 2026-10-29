@@ -5,6 +5,7 @@
     "**/.venv": true,
     "**/__pycache__": true,
     "**/.pytest_cache": true,
+    "**/.vscode": true,
     "**/.env": true,
     "**/.gitignore": true,
     "**/pytest.ini": true
