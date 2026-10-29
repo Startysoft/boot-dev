@@ -1,0 +1,13 @@
+{
+  "python.testing.pytestEnabled": true,
+  "python.testing.unittestEnabled": false,
+  "files.exclude": {
+    "**/.venv": true,
+    "**/__pycache__": true,
+    "**/.pytest_cache": true,
+    "**/.env": true,
+    "**/.gitignore": true,
+    "**/pytest.ini": true
+  },
+  "python.terminal.useEnvFile": true
+}
