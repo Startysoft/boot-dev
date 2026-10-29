@@ -1,5 +1,5 @@
 import pytest
-from main import take_magic_damage
+from lesson_03a_debugging_main import take_magic_damage
 
 run_cases = [
     (100, 5, 2, 20, 65),
